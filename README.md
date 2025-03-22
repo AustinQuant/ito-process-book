@@ -1,16 +1,21 @@
-# ito-process-book
-Numerical implementations of common processes in Stochastic Analysis. Mostly for educational / illustrative purposes but also functions as a library for equities / IR models.
+# Ito Process Book
 
-Contents  so far:
--Wiener Process (https://en.wikipedia.org/wiki/Wiener_process)
--Geometric Brownian Motion (https://en.wikipedia.org/wiki/Geometric_Brownian_motion)
--Brownian Bridge (https://en.wikipedia.org/wiki/Brownian_bridge)
--Brownian Motion on a circle
--Bessel Process
--Maximum Process
--Hitting time process
--Poisson Process
+Numerical implementations of common processes in Stochastic Analysis. Mostly for educational/illustrative purposes but also functions as a library for equities/IR models.
 
-Planning to add:
--Jump processes
--More Stochastic Volatility models such as SABR & Heston
+## Contents So Far
+- [Wiener Process](https://en.wikipedia.org/wiki/Wiener_process)
+- [Geometric Brownian Motion](https://en.wikipedia.org/wiki/Geometric_Brownian_motion)
+- [Brownian Bridge](https://en.wikipedia.org/wiki/Brownian_bridge)
+- Brownian Motion on a Circle
+- Bessel Process
+- Maximum Process
+- Hitting Time Process
+- Poisson Process
+
+## Planning to Add
+- Jump Processes
+- More Stochastic Volatility Models (e.g., SABR & Heston)
+
+
+
+
