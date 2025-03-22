@@ -1,6 +1,6 @@
 # Ito Process Book
 
-Numerical implementations of common processes in Stochastic Analysis. Mostly for educational/illustrative purposes but also functions as a library for equities/IR models.
+Numerical implementations of common processes in Stochastic Analysis. Mostly for educational/illustrative purposes but hoping to expand into a library for equities/IR models.
 
 ## Contents So Far
 - [Wiener Process](https://en.wikipedia.org/wiki/Wiener_process)
